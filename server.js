@@ -22,7 +22,7 @@ const STATIC_CHANNELS = [
     sockets: [],
   },
   {
-    name: "In and Out",
+    name: "Check In and Check Out",
     participants: 0,
     id: 3,
     sockets: [],
